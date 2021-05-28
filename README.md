@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CristianDiaz1995
 - 👀 I’m interested in Software developper 
 - 🌱 I’m currently learning Web developper
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects of Software
+- :)  I’m  like to work in a group 
 
 - 📫 How to reach me ...
 
