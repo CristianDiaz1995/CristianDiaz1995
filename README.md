@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on projects of Software
 - :)  I’m  like to work in a group 
 
-- 📫 How to reach me ...
 
-pollosoft2019@gmail.com
+
+
 
 <!---
 CristianDiaz1995/CristianDiaz1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
